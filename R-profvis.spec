@@ -7,7 +7,7 @@
 #
 Name     : R-profvis
 Version  : 0.4.0
-Release  : 10
+Release  : 11
 URL      : https://cran.r-project.org/src/contrib/profvis_0.4.0.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/profvis_0.4.0.tar.gz
 Summary  : Interactive Visualizations for Profiling R Code
